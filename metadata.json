@@ -1,0 +1,6 @@
+{
+  "name": "Personal Saving",
+  "description": "A web app to track personal earnings, expenses, and savings with history and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
